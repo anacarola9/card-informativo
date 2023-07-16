@@ -6,8 +6,8 @@ body{
     background-size: cover;
     background-repeat: no-repeat;
     background-attachment: fixed;
-    color: #ffffff;
-    font-size: 140%;
+    color: #fff;
+    font-size: 115%;
 }
 section{
     min-height: 97vh;
@@ -329,7 +329,7 @@ ul li{
     height: 100%;
 }
 .texto ul li{
-    color: #fbd9ff;
+    color: #ffffff;
     line-height: 1.2;
-    font-size: 1.2rem;
+    font-size: 1.0rem;
 }
